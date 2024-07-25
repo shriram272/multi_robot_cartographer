@@ -1,4 +1,4 @@
-This project deals with multi robot navigation and slam with cartographer.
+This project deals with multi robot navigation and utilizing cartographer for both localization and SLAM.
 
 1. Multiple turtlebots are used with different namespaces.
 2. Instead of AMCL , to achieve more accuracy cartographer was modified to use for localization. A improvement of approx 15% was noticed.
